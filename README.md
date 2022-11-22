@@ -25,5 +25,6 @@ My repository is called Horiseon-C1 and it contains all the codes and file neede
 
 ## Usage
 
+![_Users_jasminesimxy_Desktop_bootcamp_Horiseon-C1_index html](https://user-images.githubusercontent.com/117344360/203191080-26d2b4d5-4980-452e-90e6-ee76fe592a07.png)
 
 
