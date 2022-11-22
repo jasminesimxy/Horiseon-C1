@@ -12,23 +12,18 @@ I've learnt a bit more about HTML elements, accesibility standards, logical stru
 
 - [Installation]
 - [Usage]
-- [Test]
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
+The required step to install my project is through clicking on the links attached below:
 
+Deployed application link : https://jasminesimxy.github.io/Horiseon-C1/
+Github Repo URL link :https://github.com/jasminesimxy/Horiseon-C1
+
+My repository is called Horiseon-C1 and it contains all the codes and file needed to create the website (test: https://jasminesimxy.github.io/Horiseon-C1/)
 
 ## Usage
 
 
 
-
-
-    ```
-
-## Tests
-
-Deployed application link : https://jasminesimxy.github.io/Horiseon-C1/
-Github URL link :https://github.com/jasminesimxy/Horiseon-C1
