@@ -1,25 +1,34 @@
-# Module-1-Challenge
+# <HORISEON-C1>
 
-User Story:
-As a marketing agency,
-I want a codebase that follows accessibility standards
-So that our own site is optimised for search engines
+## Description
 
-Acceptance Criteria:
-Given a webpage meets accessibility standards,
-when I view the source code
-then i find semantic html elements
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-when i view that structure of the html elements,
-then i find that the elements follow a logical structure independent of styling and positioning
+My motivation for this project was to understand and apply my new knowledge of HTML elements, logical structure of a HTML positioning, accessible alt attributes, sequential order into the incorrect/incomplete existing code.
+I build this project because I want it to be readable for visually impaired individual who requires a screen reader to help them with the website. There were a few minor error with the HTML elements, the sequential order and attributes, which can impact the flow of the website for the screenreader.
+The problem has solved the issues with how the website is structured for for the screenreader for the visually impaired individual to listen to. 
+I've learnt a bit more about HTML elements, accesibility standards, logical structure of website, image alt attributes, sequential order of a HTML page.
+## Table of Contents 
 
-when I view the icon and image elements
-then I find accessible alt attributes
+- [Installation]
+- [Usage]
+- [Test]
 
-when i view the heading attributes
-then they fall in sequential order
+## Installation
 
-when i view the title element
-then i find a concise, descriptive title.
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 
+
+## Usage
+
+
+
+
+
+    ```
+
+## Tests
+
+Deployed application link : https://jasminesimxy.github.io/Horiseon-C1/
+Github URL link :https://github.com/jasminesimxy/Horiseon-C1
